@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Unitz</string>
+
+
+    <string-array name="currency">
+        <item>CAD</item>
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>SGD</item>
+        <item>AUD</item>
+        <item>JPY</item>
+    </string-array>
+
+
+    <string-array name="length">
+        <item>cm</item>
+        <item>Meter</item>
+        <item>Inch</item>
+        <item>Feet</item>
+    </string-array>
+
+    <string-array name="distance">
+        <item>Km</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
