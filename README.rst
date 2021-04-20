@@ -6,6 +6,8 @@ which solve classification and regression problems. Their performance is compara
 to a classical Multilayer Perceptron trained with Error Back-Propagation algorithm,
 but the training time is up to 6 orders of magnitude smaller. (yes, a million times!)
 
+jbgiub
+
 ELMs are suitable for processing huge datasets and dealing with Big Data,
 and this toolbox is created as their fastest and most scalable implementation.
 
@@ -14,12 +16,20 @@ it uses Numpydocs.
 
 NEW: Parallel HP-ELM tutorial! See the documentation: http://hpelm.readthedocs.org
 
+Configuration Instructions:
+    - step one
+    - step 2
+
+Installation:
+    - step1
+    - step2
 Highlights:
     - Efficient matrix math implementation without bottlenecks
     - Efficient data storage (HDF5 file format)
     - Data size not limited by the available memory
     - GPU accelerated computations (if you have one)
     - Regularization and model selection (for in-memory models)
+    - tuyt
 
 Main classes:
     - hpelm.ELM for in-memory computations (dataset fits into RAM)
