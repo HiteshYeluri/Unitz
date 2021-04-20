@@ -1,10 +1,7 @@
-Unitz
+UnitZ
 --------
 
-Extreme learning machines (ELM) are a particular kind of Artificial Neural Networks,
-which solve classification and regression problems. Their performance is comparable
-to a classical Multilayer Perceptron trained with Error Back-Propagation algorithm,
-but the training time is up to 6 orders of magnitude smaller. (yes, a million times!)
+UnitZ is a multi use converter app, made primarily for  
 
 jbgiub
 
