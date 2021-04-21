@@ -28,7 +28,7 @@ Highlights:
 Manifest:
     - activity_main.xml : This file contains the design layout that the user sees in his/her screen. It uses different type of Linear Layouts for button arrangements, has textview fields and also uses Images from mipmap in resources folder for ImageButtons.
     - strings.xml : This file contains names displayed on buttons or within the app in general. It contains app_name, different currency names, different length names, different distance names and different temperature names.
-    - 
+    - basic_conversion_rates.json : This is a json file that sontains data which is then used in MainActivity.kt. It has conversion rates for length(cm 
 
 
 
