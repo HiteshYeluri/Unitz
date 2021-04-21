@@ -17,6 +17,13 @@ Installation:
     - step2
     
 Operating Instructions:
+    - Launch the Application in your android smartphone
+    - Select the desired conversion from 4 tabs on top of the screen.
+    - You can now use the drop down to select the desired conversion.
+    - Enter the value of the unit you want to convert.
+    - Result will be displayed right below the value you entered.
+    
+PHOTO - Operation of UnitZ
 
 Highlights:
     - Multi Comnverstion tool.
