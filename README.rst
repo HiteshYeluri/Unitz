@@ -3,7 +3,6 @@ UnitZ
 
 UnitZ is a multi use converter app, made for convertions of Length, Distance, Temperature, and Currency. UnitZ is fast, reliable and uses quality data. UnitZ is your one stop app for all your daliy unit uncertainities, weather it to find out how much a CAD is worth in USD or to know how many kilometers is 3 miles, UnitZ has you covered.
 
-jbgiub
 
 ELMs are suitable for processing huge datasets and dealing with Big Data,
 and this toolbox is created as their fastest and most scalable implementation.
