@@ -31,6 +31,7 @@ Highlights:
     - Live currency conversion.
     - Reliable and accurate data.
     - User Friendly.
+    
 
 Manifest:
     - activity_main.xml : This file contains the design layout that the user sees in his/her screen. It uses different type of Linear Layouts for button arrangements, has textview fields and also uses Images from mipmap in resources folder for ImageButtons.
@@ -39,4 +40,7 @@ Manifest:
     - mipmap : this folder contains images that can be used in the app.
     - MainActivity.kt : This file has all the funcionalities and puts everyting together using all the recources.
 
+Comtact Information:
+
+For further support contact Hitesh Yeluri at hyeluri1@lakeheadu.ca
 
