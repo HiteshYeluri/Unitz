@@ -45,7 +45,7 @@ Manifest:
 Troubleshooting Tips:
  - Force close and restart the app.
  - Delete the app and download it again.
- - 
+ - If the issue persists, contact us with the info below.
 
 Comtact Information:
 
