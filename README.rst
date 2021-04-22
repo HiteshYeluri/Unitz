@@ -13,8 +13,10 @@ Configuration Instructions:
     - step 2
 
 Installation:
-    - step1
-    - step2
+    - Open google playstore and look for UnitZ
+    - Download the app, it is free to download.
+    - Once downloaded, Open the app from the saved location.
+    - It is now ready to use.
     
 Operating Instructions:
     - Launch the Application in your android smartphone
@@ -39,6 +41,11 @@ Manifest:
     - basic_conversion_rates.json : This is a json file that sontains data which is then used in MainActivity.kt. It has conversion rates for length(cm, Meter, Inch, Feet) and distance(Km, Mile).
     - mipmap : this folder contains images that can be used in the app.
     - MainActivity.kt : This file has all the funcionalities and puts everyting together using all the recources.
+    
+Troubleshooting Tips:
+ - Force close and restart the app.
+ - Delete the app and download it again.
+ - 
 
 Comtact Information:
 
