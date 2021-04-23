@@ -3,20 +3,33 @@ UnitZ
 
 UnitZ is a multi use converter app, made for convertions of Length, Distance, Temperature, and Currency. UnitZ is fast, reliable and uses quality data. UnitZ is your one stop app for all your daliy unit uncertainities, weather it to find out how much a CAD is worth in USD or to know how many kilometers is 3 miles, UnitZ has you covered.
 
-PHOTO - UNITZ LOGO
-
-
-
-
+.. figure:: images/UnitZ%20app%20icon.png
+   :scale: 25 %
+   
+   Unitz App Icon
+   
+   
+.. figure:: images/launcher%20screenshot.png 
+   :scale: 25 %
+   
+   Android launcher preview
+   
 Configuration Instructions:
-    - step one
-    - step 2
+    - Android SDK 30
+    - Android version 4.4.2 and newer
 
 Installation:
-    - Open google playstore and look for UnitZ
-    - Download the app, it is free to download.
-    - Once downloaded, Open the app from the saved location.
-    - It is now ready to use.
+    - Click the dropdown menu in the toolbar at the top (Open 'Edit Run/Debug configurations' dialog)
+    - Select "Edit Configurations"
+    - Click the "+"
+    - Select "Gradle"
+    - Choose your module as a Gradle project
+    - In Tasks: enter assemble
+    - Press Run
+    - Your unsigned APK is now located in
+    - Unitz\app\build\outputs\apk
+    - Allow "Install Unknown apps" in android settings
+    - Open the app and it is now ready to use.
     
 Operating Instructions:
     - Launch the Application in your android smartphone
@@ -25,7 +38,25 @@ Operating Instructions:
     - Enter the value of the unit you want to convert.
     - Result will be displayed right below the value you entered.
     
-PHOTO - Operation of UnitZ
+.. figure:: images/step%201.png
+   :scale: 25 %
+   
+   Step 1
+   
+.. figure:: images/step%202.png
+   :scale: 25 %
+   
+   Step 2
+   
+.. figure:: images/step%203.PNG
+   :scale: 25 %
+   
+   Step 3
+   
+.. figure:: images/final%20step.png
+   :scale: 25 %
+   
+   Step 4
 
 Highlights:
     - Multi Comnverstion tool.
@@ -44,10 +75,10 @@ Manifest:
     
 Troubleshooting Tips:
  - Force close and restart the app.
- - Delete the app and download it again.
- - If the issue persists, contact us with the info below.
+ - If the issue didn't resolve, reinstall the application.
+ - If the issue still persists, contact us with the info below.
 
-Comtact Information:
+Contact Information:
 
 For further support contact Hitesh Yeluri at hyeluri1@lakeheadu.ca
 
